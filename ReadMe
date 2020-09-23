@@ -1,1 +1,8 @@
 Angular Application to manage finances - monitor income and outgoings
+
+To preview, download file and unzip. Access file via command line
+
+To view code in VS code - navigate to budgetCalculator using command line and type "code ."
+
+To browse app - navigate to budgetCalculator using command line and type "ng serve" and access via localhost:4200 in browser
+
